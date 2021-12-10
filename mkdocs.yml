@@ -1,0 +1,12 @@
+site_name: Homelab City
+nav: 
+    - Home: index.md
+    - Posts:
+      - 'Sonos across subnets on Juniper EX2200': posts/2019-12-09-sonos-subnets-ex2200.md
+      - 'Ubuntu 18.04 LXD/LXC, ZFS, Docker, and Advanced Networking': posts/2018-05-06-ubuntu-lxc-zfs-docker.md
+      - 'FortiGate 90D-POE with FortiAP on 5.4.1': posts/2016-07-08-fortigate-90d-poe-with-fortiap-on-5-4-1.md
+      - 'Google Fiber with Fortigate 90D': posts/2016-06-13-google-fiber-with-fortigate-90d.md
+theme:
+    name: material
+    highlightjs: true
+    nav_style: dark
